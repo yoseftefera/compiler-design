@@ -25,4 +25,5 @@ N.B Should be delivered using Google Colab single notebook file.
   - put each excercise code in separate cell in colab.
   - prepare readme, write your name and ID number and the colab link.
   - share your colab notebook to "1920esmael@gmail.com" and set general access to "Restricted".
-  - push your local repository.
+  - commit and push
+  - open pull request
